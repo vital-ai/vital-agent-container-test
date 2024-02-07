@@ -12,7 +12,11 @@ class TestAgentContainer {
     public void runTest(args) {
 
         println "Hello World"
-        
+
+        // call rest endpoint of agent within the container
+
+
+
     }
 
 }
